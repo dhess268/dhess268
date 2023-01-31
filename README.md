@@ -5,7 +5,7 @@
 
 - 🏢 I'm currently working on my dream projects and looking for full-time employment
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
-- 🌍 I support and volunteer with: **AllStar Code**
+- 🌍 I support and volunteer with: **AllStar Code, Projects Always Receiving**
 - 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
 - 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **Anime**
 - 📫 Reach me asap: <a href="https://twitter.com/JustDillonGuy">Twitter</a> or dhess268@gmail.com
