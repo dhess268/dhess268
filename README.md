@@ -7,7 +7,7 @@
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
 - 🌍 I support and volunteer with: **AllStar Code, Projects Always Receiving**
 - 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
-- 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **Anime**
+- 💬 Ping me about: **web design**, **social media**, **diversity & inclusion**, **Anime**
 - 📫 Reach me asap: <a href="https://twitter.com/JustDillonGuy">Twitter</a> or dhess268@gmail.com
 - 💜 Interests: anime fan, game development enthusiast, mystery novels, 🐱 MY CAT
 - 😄 Passionate about accessibility and committed to a web that works for everyone
