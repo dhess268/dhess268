@@ -5,11 +5,11 @@
 
 - 🏢 I'm currently working on my dream projects and looking for full-time employment
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
-- 🌍 I support and volunteer with: **AllStar Code, Projects Always Receiving**
+- 🌍 I support and volunteer with: **Project Always Receiving**
 - 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
 - 💬 Ping me about: **web design**, **javascript tips**, **diversity & inclusion**, **Anime**
 - 📫 Reach me asap: <a href="https://twitter.com/JustDillonGuy">Twitter</a> or dhess268@gmail.com
-- 💜 Interests: anime fan, game development enthusiast, mystery novels, 🐱 MY CAT
+- 💜 Interests: anime fan, game development, mystery novels, 🐱 MY CAT
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
 #### Find me around the web 🌎:
@@ -21,4 +21,3 @@
 
 ---
 
-⭐️Template From [MillyCodes](https://github.com/MillyCodes)
